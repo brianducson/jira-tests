@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://jira-dev.katalon.com'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Default Username</description>
+      <initValue>'tony'</initValue>
+      <name>username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Default Password</description>
+      <initValue>'Test@2017'</initValue>
+      <name>password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Welcome message at Login page</description>
+      <initValue>'Welcome to Katalon JIRA'</initValue>
+      <name>welcome_message</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Logout message</description>
+      <initValue>'You are now logged out. Any automatic login has also been stopped.'</initValue>
+      <name>logout_message</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>System Dashboard message</description>
+      <initValue>'System Dashboard'</initValue>
+      <name>system_dashboard</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Create Issue'</initValue>
+      <name>create_issue_title</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Katalon Test Project (KTP)'</initValue>
+      <name>project</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bug'</initValue>
+      <name>issue_type</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Testing new issue'</initValue>
+      <name>summary</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This is new issue description'</initValue>
+      <name>description</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Low'</initValue>
+      <name>priority</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'new_issue'</initValue>
+      <name>labels</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Sorry, your username and password are incorrect - please try again.'</initValue>
+      <name>login_fail_message</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginFailAs</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d982be05-1d01-4301-8478-0f272b45b2ee</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e051d08-67b0-47f9-a951-feed4dc1aaa8</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>071252db-d3a1-4373-85a6-0e755d4c2fdf</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

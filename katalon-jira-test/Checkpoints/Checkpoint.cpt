@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/checkpoint-2</source-url>
+   </source-info>
+   <taken-date>2017-12-15T01:45:50.737</taken-date>
+   <column-names>
+      <column-name>name</column-name>
+      <column-name>code</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "Trong Bui",
+      "checked": true
+    },
+    {
+      "value": "VN001",
+      "checked": true
+    }
+  ],
+  [
+    {
+      "value": "Long Bui",
+      "checked": true
+    },
+    {
+      "value": "VN002",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

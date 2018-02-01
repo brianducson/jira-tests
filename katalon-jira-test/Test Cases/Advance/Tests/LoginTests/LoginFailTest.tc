@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginFailTest</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6daf237-14f3-4e11-b887-ebd06c700f53</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>23a8818e-7e46-49c3-9aad-404d70d33286</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5bd47dc-9c5c-4516-a345-8ceb330bcc37</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
